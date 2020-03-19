@@ -1,36 +1,36 @@
-# Truong Pham  
+# Truong Pham's Resume
 ## How to find me
 - Email : truongptk30a3@gmail.com  
 - Linkedin: https://www.linkedin.com/in/truongpt/
 - Mobile : +81-906-022-0187  
 - blog: https://gravieb.wordpress.com  
 
-## EDUCATION
+## Education
 - Phan Boi Chau Specialized High School, Nghe An - Viet Nam 09/2001 - 06/2004
-2rd prize Vietnam National Physics Contest for high school - 2004 \
-Bronze medal 5th Asian Physics Olympiad - 2004 \
+  - 2rd prize Vietnam National Physics Contest for high school - 2004 \
+  - Bronze medal 5th Asian Physics Olympiad - 2004 \
 - Hanoi University of Science and Technology 09/2004 - 06/2009
-B.S. in Automatic Control/Electrical Engineering department \
-Graduation thesis: 48V DC - 220V AC, 500W Converter, control by dspic30f4011 \
-3rd prize research student of Electrical Engineering department - 2009 \
-Overall GPA: 8.15/10  
+  - B.S. in Automatic Control/Electrical Engineering department \
+  - Graduation thesis: 48V DC - 220V AC, 500W Converter, control by dspic30f4011 \
+  - 3rd prize research student of Electrical Engineering department - 2009 \
+  - Overall GPA: 8.15/10  
 
-#### CERTIFICATIONS
-Fundamentals of Digital Image and Video Processing - Coursera 05/2019 \
-Machine Learning - Coursera 10/2019  
+#### Certifications
+- Fundamentals of Digital Image and Video Processing - Coursera 05/2019
+- Machine Learning - Coursera 10/2019  
 
-#### TECHNICAL STRENGTHS
-Programming Language: C/C++. \
-Multimedia processing: MPEG2-Video/H.262, AVC/H.264, HEVC/H.265, MPEG2-TS. \
-OSS: FFmpeg, GStreamer, Linux Kernel, HEVC Model(HM), AVC Joint Model(JM). \
-Hardware: Microcontroller PIC, AVR, SOC base on ARM, MISP. \
+#### Technical Strengths
+- Programming Language: C/C++.
+- Multimedia processing: MPEG2-Video/H.262, AVC/H.264, HEVC/H.265, MPEG2-TS.
+- OSS: FFmpeg, GStreamer, Linux Kernel, HEVC Model(HM), AVC Joint Model(JM).
+- Hardware: Microcontroller PIC, AVR, SOC base on ARM, MISP.
 
-## FOREIGN LANGUAGE
-Vietnamese: Native \
-English: Intermediate, Communicate Fluently \
-Japanese: nearly N2 \
+## Spoken Language
+- Vietnamese: Native
+- English: Intermediate, Communicate Fluently
+- Japanese: nearly N2
 
-## EMPLOYMENT & EXPERIENCE
+## Experiences
 ### VTI Co Limited 08/2018 - Present \
 Embedded Sofware Engineer Tokyo, Japan
 - 3D TOF sensor: Develop framework and driver of 3D TOF sensor on Android. (08/2018 - Present) \
