@@ -73,11 +73,11 @@
   - Demux
 
 - 08/2009 - 04/2012: Audio Video Decoder.
-Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
+> Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
 Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.
 Design firmware by API of OpenMax-IL and integrate to Stagefright (Android Media
-Framework).
-  - AVC/H.264 decoder
+Framework).  
+> Responsibility: AVC/H.264 decoder
 
 ## Other Activity
 - [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
