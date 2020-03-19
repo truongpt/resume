@@ -8,7 +8,8 @@
 
 ## Personal summary
 > Embedded Software Engineer.\
-> I am interested in with low level coding and always curious about what is behind each library.
+> I am interested in with low level coding and always curious about what is behind each library.\
+> My current activity at [here](https://github.com/truongpt/resume/blob/master/current_activity.md)
 
 ## Education
 - **09/2001 - 06/2004**: Phan Boi Chau Specialized High School, Nghe An - Viet Nam.
