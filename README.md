@@ -19,8 +19,8 @@
   - Overall GPA: 8.15/10  
 
 ## Self study
-- Fundamentals of Digital Image and Video Processing - Coursera 05/2019
-- Machine Learning - Coursera 10/2019  
+- [Fundamentals of Digital Image and Video Processing](https://github.com/truongpt/resume/blob/master/cerfiticate/Fundamentals_of_Digital_Image_and_Video.pdf) - Coursera 05/2019
+- [Machine Learning](https://github.com/truongpt/resume/blob/master/cerfiticate/Machine_learning.pdf) - Coursera 10/2019  
 
 ## Technical
 - Programming Language.
@@ -90,7 +90,7 @@ IL to integrate with Stagefright on Android Media Framework.
 
 - 08/2009 - 11/2011: Audio Video Decoder-1.
 > Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
-Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.
+Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
 > **Responsibility**: AVC/H.264 decoder, Video display.
 
 ## Other Activity
