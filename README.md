@@ -95,6 +95,6 @@ Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
 > **Responsibility**: AVC/H.264 decoder, Video display.
 
 ## Other Activity
-- [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
-- [Proof Of Concept transcode from MPEG2 to H.264 to reduce bitrate by using Raspberry PI](https://github.com/truongpt/omxtranscoder).
+- 02/2017: [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
+- 08/2017: [Proof Of Concept transcode from MPEG2 to H.264 to reduce bitrate by using Raspberry PI](https://github.com/truongpt/omxtranscoder).
 - Blogger: https://gravieb.wordpress.com
