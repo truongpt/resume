@@ -18,13 +18,19 @@
   - 3rd prize research student of Electrical Engineering department - 2009
   - Overall GPA: 8.15/10  
 
-#### Certifications
+## Self study
 - Fundamentals of Digital Image and Video Processing - Coursera 05/2019
 - Machine Learning - Coursera 10/2019  
 
-#### Technical Strengths
-- Programming Language: C/C++.
-- Multimedia processing: MPEG2-Video/H.262, AVC/H.264, HEVC/H.265, MPEG2-TS.
+## Technical Strengths
+- Programming Language.
+  - C
+  - C++.
+- Multimedia processing.
+  - MPEG2-Video/H.262
+  - AVC/H.264
+  - HEVC/H.265
+  - MPEG2-TS
 - OSS: FFmpeg, GStreamer, Linux Kernel, HEVC Model(HM), AVC Joint Model(JM).
 - Hardware: Microcontroller PIC, AVR, SOC base on ARM, MISP.
 
