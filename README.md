@@ -22,8 +22,8 @@
   - Overall GPA: 8.15/10  
 
 ## Self study
-- [Fundamentals of Digital Image and Video Processing](https://github.com/truongpt/resume/blob/master/cerfiticate/Fundamentals_of_Digital_Image_and_Video.pdf) - Coursera 05/2019
-- [Machine Learning](https://github.com/truongpt/resume/blob/master/cerfiticate/Machine_learning.pdf) - Coursera 10/2019  
+- 05/2019: [Fundamentals of Digital Image and Video Processing](https://github.com/truongpt/resume/blob/master/cerfiticate/Fundamentals_of_Digital_Image_and_Video.pdf) - Coursera
+- 10/2019: [Machine Learning](https://github.com/truongpt/resume/blob/master/cerfiticate/Machine_learning.pdf) - Coursera
 
 ## Technical
 - Programming Language.
@@ -99,4 +99,4 @@ Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
 ## Other Activity
 - 02/2017: [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
 - 08/2017: [Proof Of Concept transcode from MPEG2 to H.264 to reduce bitrate by using Raspberry PI](https://github.com/truongpt/omxtranscoder).
-- Blogger: https://gravieb.wordpress.com
+- https://gravieb.wordpress.com
