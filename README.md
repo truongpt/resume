@@ -77,12 +77,20 @@
 > Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.\
 > Responsibility: Demux
 
-- 08/2009 - 04/2012: Audio Video Decoder.
+- 04/2012 - 06/2013: Linux Kernel BSP.
+> Resolve problem of linux driver, media framework when upgrading
+from Android 2.3 to 4.0.\
+> Responsibility: Investigate and support problem of SPI, I2C, GPIO driver and media framework.
+
+- 11/2011 - 04/2012: Audio Video Decoder-2.
+> Develop core multimedia processing firmware following to API of OpenMax-
+IL to integrate with Stagefright on Android Media Framework.  
+> Responsibility: Develop video decoder component, support H.264 video coding format.
+
+- 08/2009 - 11/2011: Audio Video Decoder-1.
 > Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
-Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
-Design firmware by API of OpenMax-IL and integrate to Stagefright (Android Media
-Framework).  
-> Responsibility: AVC/H.264 decoder
+Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.
+> Responsibility: AVC/H.264 decoder, Video display.
 
 ## Other Activity
 - [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
