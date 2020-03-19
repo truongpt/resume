@@ -7,7 +7,8 @@
 - Now, I am living in Yokohama, Japan
 
 ## Personal summary
-> Embedded Software Engineer.
+> Embedded Software Engineer.\
+> I am interested in with low level coding and always curious about what is behind each library.
 
 ## Education
 - **09/2001 - 06/2004**: Phan Boi Chau Specialized High School, Nghe An - Viet Nam.
