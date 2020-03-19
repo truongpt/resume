@@ -9,10 +9,10 @@
 > Embedded Software Engineer.
 
 ## Education
-- Phan Boi Chau Specialized High School, Nghe An - Viet Nam 09/2001 - 06/2004
+- **09/2001 - 06/2004**: Phan Boi Chau Specialized High School, Nghe An - Viet Nam.
   - 2rd prize Vietnam National Physics Contest for high school - 2004
   - Bronze medal 5th Asian Physics Olympiad - 2004
-- Hanoi University of Science and Technology 09/2004 - 06/2009
+- **09/2004 - 06/2009**: Hanoi University of Science and Technology
   - B.S. in Automatic Control/Electrical Engineering department
   - Graduation thesis: 48V DC - 220V AC, 500W Converter, control by dspic30f4011
   - 3rd prize research student of Electrical Engineering department - 2009
@@ -48,10 +48,10 @@
 - Japanese: nearly N2
 
 ## Employment History
-- 08/2018 - Present: Embedded Software Engineer at [VTI Co Limited](http://vti.com.vn)
-- 07/2013 - 07/2018: Software Engineer, Bridge System Engineer at [FPT Japan](https://www.fpt-software.jp/fpt-japan)
-- 07/2009 - 07/2013: Software Developer at [FPT Software Ha Noi](https://www.fpt-software.com/)
-- 11/2007 - 02/2009: Part time job as Embedded Developer at [Binh Anh Electronics](http://binhanh.vn)
+- **08/2018 - Present**: Embedded Software Engineer at [VTI Co Limited](http://vti.com.vn)
+- **07/2013 - 07/2018**: Software Engineer, Bridge System Engineer at [FPT Japan](https://www.fpt-software.jp/fpt-japan)
+- **07/2009 - 07/2013**: Software Developer at [FPT Software Ha Noi](https://www.fpt-software.com/)
+- **11/2007 - 02/2009**: Part time job as Embedded Developer at [Binh Anh Electronics](http://binhanh.vn)
 
 ## Work History
 - 08/2018 - Present: Develop framework and driver for 3D TOF sensor.
