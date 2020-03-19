@@ -50,16 +50,34 @@
 ## Employment History
 - 08/2018 - Present: Embedded Software Engineer at [VTI Co Limited](http://vti.com.vn)
 - 07/2013 - 07/2018: Software Engineer, Bridge System Engineer at [FPT Japan](https://www.fpt-software.jp/fpt-japan)
-- 07/2009 - 07/2013: Software Developer at [FPT Software Ha Noi](https://www.fpt-software.com/hanoi)
+- 07/2009 - 07/2013: Software Developer at [FPT Software Ha Noi](https://www.fpt-software.com/)
 - 11/2007 - 02/2009: Part time job as Embedded Developer at [Binh Anh Electronics](http://binhanh.vn)
 
 ## Work History
-- 08/2018 - Present
-3D TOF sensor: Develop framework and driver of 3D TOF sensor on Android. (08/2018 - Present)
-Responsibility: Implement image Flter using arm NEON instruction. Investigate improve performance.
+- 08/2018 - Present: Develop framework and driver for 3D TOF sensor.
+  - Implement image filter using arm NEON instruction. Investigate improve performance.
+  
+- 5/2018 - 7/2018: Linux Kernel BSP.
+  - Investigate to port the property device driver part on SOC of the customer to upgrade Linux kernel 3.18.24 to 3.18.82.
 
-- Linux Kernel BSP: Investigate to port the property device driver part on SOC of the customer to upgrade Linux kernel 3.18.24 to 3.18.82. (5/2018 - 7/2018)
-Responsibility: Investigate USB module.
+- 10/2017 - 04/2018: Porting (design, coding, testing) HD-DMAC, HS-SPI, I2S, ENC/DEC driver on eTKernel to new SOC of customer.
+  - Communicate between offshore team and customer
+
+- 04/2017 - 10/2017: Develop tool which instead of ECUs in CAN network to test Automotive Head Unit
+  - Communicate between offshore team and customer
+
+- 08/2015 - 04/2017: Develop core video encoder of security & professional camera, supports MPEG2-Video/H.262, AVC/H.264, HEVC/H.265.
+  - Video Encoder (Coding, Testing, Bugfixing).
+
+- 07/2013 - 07/2015: Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.
+  - Demux
+
+- 08/2009 - 04/2012: Audio Video Decoder.
+Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
+Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.
+Design firmware by API of OpenMax-IL and integrate to Stagefright (Android Media
+Framework).
+  - AVC/H.264 decoder
 
 ## Other Activity
 - [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
