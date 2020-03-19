@@ -47,19 +47,21 @@
 - English: Intermediate, Communicate Fluently
 - Japanese: nearly N2
 
-## Work History
-### VTI Co Limited 08/2018 - Present
-Embedded Sofware Engineer Tokyo, Japan
-- 3D TOF sensor: Develop framework and driver of 3D TOF sensor on Android. (08/2018 - Present)
-Responsibility: Implement image Flter using arm NEON instruction. Investigate improve performance.
+## Employment History
+- 08/2018 - Present: Embedded Software Engineer at [VTI Co Limited](http://vti.com.vn)
+- 07/2013 - 07/2018: Software Engineer, Bridge System Engineer at [FPT Japan](https://www.fpt-software.jp/fpt-japan)
+- 07/2009 - 07/2013: Software Developer at [FPT Software Ha Noi](https://www.fpt-software.com/hanoi)
+- 11/2007 - 02/2009: Part time job as Embedded Developer at [Binh Anh Electronics](http://binhanh.vn)
 
-### FPT Japan 07/2013 - 07/2018
-Embedded Software Engineer, Bridge System Engineer Tokyo, Japan
+## Work History
+- 08/2018 - Present
+3D TOF sensor: Develop framework and driver of 3D TOF sensor on Android. (08/2018 - Present)
+Responsibility: Implement image Flter using arm NEON instruction. Investigate improve performance.
 
 - Linux Kernel BSP: Investigate to port the property device driver part on SOC of the customer to upgrade Linux kernel 3.18.24 to 3.18.82. (5/2018 - 7/2018)
 Responsibility: Investigate USB module.
 
-## OTHER ACTIVITY
+## Other Activity
 - [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
 - [Proof Of Concept transcode from MPEG2 to H.264 to reduce bitrate by using Raspberry PI](https://github.com/truongpt/omxtranscoder).
 - Blogger: https://gravieb.wordpress.com
