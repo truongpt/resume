@@ -6,7 +6,7 @@
 - blog: https://gravieb.wordpress.com  
 
 ## Personal summary
-> add later.
+> Embedded Software Engineer.
 
 ## Education
 - Phan Boi Chau Specialized High School, Nghe An - Viet Nam 09/2001 - 06/2004
@@ -22,7 +22,7 @@
 - Fundamentals of Digital Image and Video Processing - Coursera 05/2019
 - Machine Learning - Coursera 10/2019  
 
-## Technical Strengths
+## Technical
 - Programming Language.
   - C
   - C++.
@@ -31,15 +31,23 @@
   - AVC/H.264
   - HEVC/H.265
   - MPEG2-TS
-- OSS: FFmpeg, GStreamer, Linux Kernel, HEVC Model(HM), AVC Joint Model(JM).
-- Hardware: Microcontroller PIC, AVR, SOC base on ARM, MISP.
+- Open Source Software. 
+  - FFmpeg
+  - GStreamer
+  - Linux Kernel
+  - HEVC Model(HM)
+  - AVC Joint Model(JM).
+- Hardware
+  - ARM
+  - MISP
+  - Microcontroller PIC, AVR.
 
 ## Spoken Language
 - Vietnamese: Native
 - English: Intermediate, Communicate Fluently
 - Japanese: nearly N2
 
-## Experiences
+## Work History
 ### VTI Co Limited 08/2018 - Present
 Embedded Sofware Engineer Tokyo, Japan
 - 3D TOF sensor: Develop framework and driver of 3D TOF sensor on Android. (08/2018 - Present)
@@ -52,6 +60,6 @@ Embedded Software Engineer, Bridge System Engineer Tokyo, Japan
 Responsibility: Investigate USB module.
 
 ## OTHER ACTIVITY
-- github: Using motion vector to insert specific data, the implementation uses H.264 video format.
-- github: Proof Of Concept transcode from MPEG2 to H.264 to reduce bitrate by using Raspberry PI.
-- blogger: https://gravieb.wordpress.com
+- [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
+- [Proof Of Concept transcode from MPEG2 to H.264 to reduce bitrate by using Raspberry PI](https://github.com/truongpt/omxtranscoder).
+- Blogger: https://gravieb.wordpress.com
