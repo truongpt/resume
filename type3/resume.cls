@@ -31,7 +31,6 @@
 \newenvironment{rSection}[1]{
   \sectionskip
   \MakeUppercase{\bf #1}
-  \sectionlineskip
   \hrule
   \begin{list}{}{
     \setlength{\leftmargin}{1.5em}
