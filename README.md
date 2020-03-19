@@ -3,7 +3,8 @@
 - Email : truongptk30a3@gmail.com  
 - Linkedin: [truongpt](https://www.linkedin.com/in/truongpt)
 - Mobile : +81-906-022-0187  
-- blog: https://gravieb.wordpress.com  
+- blog: https://gravieb.wordpress.com
+- Now, I am living in Yokohama, Japan
 
 ## Personal summary
 > Embedded Software Engineer.
@@ -11,7 +12,7 @@
 ## Education
 - **09/2001 - 06/2004**: Phan Boi Chau Specialized High School, Nghe An - Viet Nam.
   - 2rd prize Vietnam National Physics Contest for high school - 2004
-  - Bronze medal 5th Asian Physics Olympiad - 2004
+  - [Bronze medal 5th Asian Physics Olympiad](https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_t%E1%BA%A1i_Olympic_V%E1%BA%ADt_l%C3%BD_ch%C3%A2u_%C3%81) - 2004
 - **09/2004 - 06/2009**: Hanoi University of Science and Technology
   - B.S. in Automatic Control/Electrical Engineering department
   - Graduation thesis: 48V DC - 220V AC, 500W Converter, control by dspic30f4011
