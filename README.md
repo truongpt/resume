@@ -86,7 +86,7 @@
 > - Investigate to adjust reference parameter of each picture.  
 > - Investigate bug with related in Hardware.  
 
-- 07/2013 - 07/2015: :movie_c: Camera recorder firmware.
+- 07/2013 - 07/2015: :movie_camera: Camera recorder firmware.
 > Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.\
 > **Responsibility**: 
 > - Develop high speed demux module, support MPEG2-TS, MP4 file format.
@@ -112,14 +112,14 @@ to 4.0.
 IL to integrate with Stagefright on Android Media Framework.  
 > **Responsibility**: 
 > - Develop video decoder component, support H.264 video coding format.
-> - Onsite 3 months at Kyoto to discuss design and solution with customer
+> - :airplane: Onsite 3 months at Kyoto to discuss design and solution with customer
 
 - 08/2009 - 11/2011: :tv: Audio Video Decoder-1.
 > Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
 Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
 > **Responsibility**: 
 > - Develop AVC/H.264 decoder, Video display.
-> - Onsite 1 month at Kyoto to test and fixbug by customer's data
+> - :airplane: Onsite 1 month at Kyoto to test and fixbug by customer's data
 
 #### Binh Anh Electronics
 > Partime job.  
