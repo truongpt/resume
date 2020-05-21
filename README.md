@@ -79,14 +79,14 @@
 > - Communicate between offshore team and customer.  
 > - Support offshore team requirement analysis, discuss solution, support fixbug.
 
-- 08/2015 - 04/2017: :tv: 4k Television firmware. 
+- 08/2015 - 04/2017: :movie_camera: Camera recorder firmware.
 > Develop core video encoder of security & professional camera, supports MPEG2-Video/H.262, AVC/H.264, HEVC/H.265.\
 > **Responsibility**: 
 > - Implement feature change GOP (grop of picture) of output stream.  
 > - Investigate to adjust reference parameter of each picture.  
 > - Investigate bug with related in Hardware.  
 
-- 07/2013 - 07/2015: :movie_camera: Camera recorder firmware.
+- 07/2013 - 07/2015: :tv: 4k Television firmware. 
 > Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.\
 > **Responsibility**: 
 > - Develop high speed demux module, support MPEG2-TS, MP4 file format.
