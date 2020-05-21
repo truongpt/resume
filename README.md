@@ -59,7 +59,7 @@
 ## Work History
 #### VTI Co Limited, - Tokyo, Japan
 - 08/2018 - Present: 3D TOF sensor
-> Develop framework and driver for 3D TOF sensor.\
+> Develop framework and driver for 3D TOF sensor.  
 > **Responsibility**: Implement image filter using arm NEON instruction. Investigate improve performance.
 
 #### FPT Japan, - Tokyo, Japan
@@ -69,19 +69,28 @@
 
 - 10/2017 - 04/2018: eTKernel Driver
 > Porting (design, coding, testing) HD-DMAC, HS-SPI, I2S, ENC/DEC driver on eTKernel to new SOC of customer.
-> **Responsibility**: Communicate between offshore team and customer
+> **Responsibility**:
+> - Communicate between offshore team and customer.  
+> - Support offshore team requirement analysis, discuss solution, support fixbug.
 
 - 04/2017 - 10/2017: CAN Network test tool.
 > Develop tool which instead of ECUs in CAN network to test Automotive Head Unit.\
-> **Responsibility**: Communicate between offshore team and customer
+> **Responsibility**: 
+> - Communicate between offshore team and customer.  
+> - Support offshore team requirement analysis, discuss solution, support fixbug.
 
 - 08/2015 - 04/2017: :tv: 4k Television firmware. 
 > Develop core video encoder of security & professional camera, supports MPEG2-Video/H.262, AVC/H.264, HEVC/H.265.\
-> **Responsibility**: Video Encoder (Coding, Testing, Bugfixing).
+> **Responsibility**: 
+> - Implement feature change GOP (grop of picture) of output stream.  
+> - Investigate to adjust reference parameter of each picture.  
+> - Investigate bug with related in Hardware.  
 
 - 07/2013 - 07/2015: :movie_c: Camera recorder firmware.
 > Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.\
-> **Responsibility**: Demux
+> **Responsibility**: 
+> - Develop high speed demux module, support MPEG2-TS, MP4 file format.
+> - Investigate and fix bug.
 
 #### FPT Software - HaNoi, VietNam
 - 04/2012 - 06/2013: Linux Kernel BSP (cont).
@@ -101,16 +110,16 @@ to 4.0.
 - 11/2011 - 04/2012: Audio Video Decoder-2.
 > Develop core multimedia processing firmware following to API of OpenMax-
 IL to integrate with Stagefright on Android Media Framework.  
-> - **Responsibility**: 
->   - Develop video decoder component, support H.264 video coding format.
->   - Onsite 3 months at Kyoto to discuss design and solution with customer
+> **Responsibility**: 
+> - Develop video decoder component, support H.264 video coding format.
+> - Onsite 3 months at Kyoto to discuss design and solution with customer
 
 - 08/2009 - 11/2011: :tv: Audio Video Decoder-1.
 > Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
 Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
-> - **Responsibility**: 
->   - Develop AVC/H.264 decoder, Video display.
->   - Onsite 1 month at Kyoto to test and fixbug by customer's data
+> **Responsibility**: 
+> - Develop AVC/H.264 decoder, Video display.
+> - Onsite 1 month at Kyoto to test and fixbug by customer's data
 
 #### Binh Anh Electronics
 > Partime job.  
