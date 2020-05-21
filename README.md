@@ -57,10 +57,12 @@
 - **11/2007 - 02/2009**: Part time job as Embedded Developer at [Binh Anh Electronics](http://binhanh.vn)
 
 ## Work History
+#### VTI Co Limited, - Tokyo, Japan
 - 08/2018 - Present: 3D TOF sensor
 > Develop framework and driver for 3D TOF sensor.\
 > **Responsibility**: Implement image filter using arm NEON instruction. Investigate improve performance.
-  
+
+#### FPT Japan, - Tokyo, Japan
 - 5/2018 - 7/2018: Linux Kernel BSP.
 > Investigate to port the property device driver part on SOC of the customer to upgrade Linux kernel 3.18.24 to 3.18.82.\
 > **Responsibility**: Investigate USB module.
@@ -73,28 +75,44 @@
 > Develop tool which instead of ECUs in CAN network to test Automotive Head Unit.\
 > **Responsibility**: Communicate between offshore team and customer
 
-- 08/2015 - 04/2017: 4k Television firmware.
+- 08/2015 - 04/2017: :tv: 4k Television firmware. 
 > Develop core video encoder of security & professional camera, supports MPEG2-Video/H.262, AVC/H.264, HEVC/H.265.\
 > **Responsibility**: Video Encoder (Coding, Testing, Bugfixing).
 
-- 07/2013 - 07/2015: Camera recorder firmware.
+- 07/2013 - 07/2015: :movie_c: Camera recorder firmware.
 > Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.\
 > **Responsibility**: Demux
 
-- 04/2012 - 06/2013: Linux Kernel BSP.
+#### FPT Software - HaNoi, VietNam
+- 04/2012 - 06/2013: Linux Kernel BSP (cont).
 > Resolve problem of linux driver, media framework when upgrading
 from Android 2.3 to 4.0.\
 > **Responsibility**: Investigate and support problem of SPI, I2C, GPIO driver and media framework.
+
+- 09/2012 - 02/2013: G-BOOK
+> Develop G-BOOK system on Carnavi.  
+> **Responsibility**: :airplane: Onsite investigate bug at Nagoya.
+
+- 04/2012 - 09/2012: Linux Kernel BSP.
+> Resolve problem of linux driver, media framework when upgrading from Android 2.3
+to 4.0.  
+> **Responsibility**: Testing SPI, I2C, GPIO driver. Fix bug driver & media framework.
 
 - 11/2011 - 04/2012: Audio Video Decoder-2.
 > Develop core multimedia processing firmware following to API of OpenMax-
 IL to integrate with Stagefright on Android Media Framework.  
 > **Responsibility**: Develop video decoder component, support H.264 video coding format.
 
-- 08/2009 - 11/2011: Audio Video Decoder-1.
+- 08/2009 - 11/2011: :tv: Audio Video Decoder-1.
 > Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
 Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
 > **Responsibility**: AVC/H.264 decoder, Video display.
+
+#### Binh Anh Electronics
+> Partime job.  
+> - Create some utility by PIC16F877A and RF module.  
+> - Design PCB using Altium 6.0  
+> - Study sensor network by Microchip Stack for the ZigBee™ Protocol.  
 
 ## Other Activity
 - 02/2017: [Using motion vector to insert specific data, the implementation uses H.264 video format](https://github.com/truongpt/video_watermarking).
