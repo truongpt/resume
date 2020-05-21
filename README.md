@@ -101,12 +101,16 @@ to 4.0.
 - 11/2011 - 04/2012: Audio Video Decoder-2.
 > Develop core multimedia processing firmware following to API of OpenMax-
 IL to integrate with Stagefright on Android Media Framework.  
-> **Responsibility**: Develop video decoder component, support H.264 video coding format.
+> - **Responsibility**: 
+>   - Develop video decoder component, support H.264 video coding format.
+>   - Onsite 3 months at Kyoto to discuss design and solution with customer
 
 - 08/2009 - 11/2011: :tv: Audio Video Decoder-1.
 > Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
 Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
-> **Responsibility**: AVC/H.264 decoder, Video display.
+> - **Responsibility**: 
+>   - Develop AVC/H.264 decoder, Video display.
+>   - Onsite 1 month at Kyoto to test and fixbug by customer's data
 
 #### Binh Anh Electronics
 > Partime job.  
