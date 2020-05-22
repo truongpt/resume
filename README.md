@@ -37,13 +37,16 @@
 - Open Source Software. 
   - FFmpeg
   - GStreamer
-  - Linux Kernel
   - HEVC Model(HM)
   - AVC Joint Model(JM).
+- Linux Device Driver
 - Hardware
-  - ARM
-  - MISP
-  - Microcontroller PIC, AVR.
+  - Soc base on ARM
+  - Soc base on MISP
+  - Microcontroller 8/16bit PIC, AVR.
+- Firmware
+  - Digital Television
+  - Camera Recorder
 
 ## Spoken Language
 - Vietnamese: Native
@@ -60,12 +63,16 @@
 #### VTI Co Limited, - Tokyo, Japan
 - 08/2018 - Present: 3D TOF sensor
 > Develop framework and driver for 3D TOF sensor.  
-> **Responsibility**: Implement image filter using arm NEON instruction. Investigate improve performance.
+> **Responsibility**: 
+> - Implement image filter pipeline. 
+> - Investigate improve performance by using arm NEON instruction.
 
 #### FPT Japan, - Tokyo, Japan
 - 5/2018 - 7/2018: Linux Kernel BSP.
-> Investigate to port the property device driver part on SOC of the customer to upgrade Linux kernel 3.18.24 to 3.18.82.\
-> **Responsibility**: Investigate USB module.
+> Investigate to port the property device driver part on SoC of the customer to upgrade Linux kernel 3.18.24 to 3.18.82.  
+> **Responsibility**: 
+> - Investigate USB stack in Linux Device Driver.
+> - Analysis bugfix modification of customer on old SoC
 
 - 10/2017 - 04/2018: eTKernel Driver
 > Porting (design, coding, testing) HD-DMAC, HS-SPI, I2S, ENC/DEC driver on eTKernel to new SOC of customer.
@@ -74,33 +81,35 @@
 > - Support offshore team requirement analysis, discuss solution, support fixbug.
 
 - 04/2017 - 10/2017: CAN Network test tool.
-> Develop tool which instead of ECUs in CAN network to test Automotive Head Unit.\
+> Develop tool which instead of ECUs in CAN network to test Automotive Head Unit.  
 > **Responsibility**: 
 > - Communicate between offshore team and customer.  
 > - Support offshore team requirement analysis, discuss solution, support fixbug.
 
 - 08/2015 - 04/2017: :movie_camera: Camera recorder firmware.
-> Develop core video encoder of security & professional camera, supports MPEG2-Video/H.262, AVC/H.264, HEVC/H.265.\
+> Develop core video encoder of security & professional camera, supports MPEG2-Video/H.262, AVC/H.264, HEVC/H.265.  
 > **Responsibility**: 
 > - Implement feature change GOP (grop of picture) of output stream.  
-> - Investigate to adjust reference parameter of each picture.  
+> - Adjust reference parameter of each picture to find the best option.  
 > - Investigate bug with related in Hardware.  
 
 - 07/2013 - 07/2015: :tv: 4k Television firmware. 
-> Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.\
+> Develop firmware of 4K digital television, supports MPEG2-TS, MP4 file format.  
 > **Responsibility**: 
-> - Develop high speed demux module, support MPEG2-TS, MP4 file format.
+> - Develop high speed demux module for 4K stream, supports MPEG2-TS, MP4 file format.
 > - Investigate and fix bug.
 
 #### FPT Software - HaNoi, VietNam
 - 04/2012 - 06/2013: Linux Kernel BSP (cont).
 > Resolve problem of linux driver, media framework when upgrading
 from Android 2.3 to 4.0.\
-> **Responsibility**: Investigate and support problem of SPI, I2C, GPIO driver and media framework.
+> **Responsibility**: 
+> - Investigate and support problem of SPI, I2C, GPIO driver.  
+> - Investigate and fix bug of Android Media Framework.
 
 - 09/2012 - 02/2013: G-BOOK
 > Develop G-BOOK system on Carnavi.  
-> **Responsibility**: :airplane: Onsite investigate bug at Nagoya.
+> **Responsibility**: :airplane: Onsite at Nagoya to investigate and fix bug.
 
 - 04/2012 - 09/2012: Linux Kernel BSP.
 > Resolve problem of linux driver, media framework when upgrading from Android 2.3
@@ -112,14 +121,14 @@ to 4.0.
 IL to integrate with Stagefright on Android Media Framework.  
 > **Responsibility**: 
 > - Develop video decoder component, support H.264 video coding format.
-> - :airplane: Onsite 3 months at Kyoto to discuss design and solution with customer
+> - :airplane: Onsite 3 months at Kyoto to discuss solution and design with customer
 
 - 08/2009 - 11/2011: :tv: Audio Video Decoder-1.
 > Develop firmware of digital television (Digital Video Broadcasting - Terrestrial).
-Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.\
+Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.  
 > **Responsibility**: 
 > - Develop AVC/H.264 decoder, Video display.
-> - :airplane: Onsite 1 month at Kyoto to test and fixbug by customer's data
+> - :airplane: Onsite 1 month at Kyoto to test and fixbug by using customer's data
 
 #### Binh Anh Electronics
 > Partime job.  
