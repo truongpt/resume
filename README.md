@@ -60,14 +60,14 @@
 - **11/2007 - 02/2009**: Part time job as Embedded Developer at [Binh Anh Electronics](http://binhanh.vn)
 
 ## Work History
-#### VTI Co Limited, - Tokyo, Japan
+#### :pushpin: VTI Co Limited, - Tokyo, Japan
 - 08/2018 - Present: 3D TOF sensor
 > Develop framework and driver for 3D TOF sensor.  
 > **Responsibility**: 
 > - Implement image filter pipeline. 
 > - Investigate improve performance by using arm NEON instruction.
 
-#### FPT Japan, - Tokyo, Japan
+#### :pushpin: FPT Japan, - Tokyo, Japan
 - 5/2018 - 7/2018: Linux Kernel BSP.
 > Investigate to port the property device driver part on SoC of the customer to upgrade Linux kernel 3.18.24 to 3.18.82.  
 > **Responsibility**: 
@@ -99,7 +99,7 @@
 > - Develop high speed demux module for 4K stream, supports MPEG2-TS, MP4 file format.
 > - Investigate and fix bug.
 
-#### FPT Software - HaNoi, VietNam
+#### :pushpin: FPT Software - Hanoi, Vietnam
 - 04/2012 - 06/2013: Linux Kernel BSP (cont).
 > Resolve problem of linux driver, media framework when upgrading
 from Android 2.3 to 4.0.\
@@ -130,7 +130,7 @@ Support trick play (slow, fast) with MP4, MKV, ASF, AVI file format.
 > - Develop AVC/H.264 decoder, Video display.
 > - :airplane: Onsite 1 month at Kyoto to test and fixbug by using customer's data
 
-#### Binh Anh Electronics
+#### :pushpin: Binh Anh Electronics
 > Partime job.  
 > - Create some utility by PIC16F877A and RF module.  
 > - Design PCB using Altium 6.0  
