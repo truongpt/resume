@@ -2,6 +2,7 @@
 ## How to find me
 - Email : truongptk30a3@gmail.com  
 - Linkedin: [truongpt](https://www.linkedin.com/in/truongpt)
+- Twitter: [truongptk30a3](https://twitter.com/truongptk30a3)
 - Mobile : +81-906-022-0187  
 - blog: https://gravieb.wordpress.com
 - Now, I am living in Yokohama, Japan
@@ -9,7 +10,7 @@
 ## Personal summary
 > Embedded Software Engineer.\
 > I am interested in with low level coding and always curious about what is behind each library.\
-> My current activity at [here](https://github.com/truongpt/resume/blob/master/current_activity.md)
+> Now, My activity in spare time at [here](https://github.com/truongpt/resume/blob/master/current_activity.md)
 
 ## Education
 - **09/2001 - 06/2004**: Phan Boi Chau Specialized High School, Nghe An - Viet Nam.
