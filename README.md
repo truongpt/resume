@@ -1,9 +1,11 @@
 # Truong Pham's Resume
 
-## Personal summary
+## Personal summary  
 > Embedded Software Engineer.\
 > I am interested in with low level coding and always curious about what is behind each library.\
-> Now, my activity in spare time at [here](https://github.com/truongpt/resume/blob/master/current_activity.md)
+> My current activity in spare time.
+> - Studying ALGO&DS by problem resolving on [leetcode](https://leetcode.com/gravieb)
+> - Studying compiler by creating one [meo](https://github.com/truongpt/meo)
 
 ## How to find me
 - Email : truongptk30a3@gmail.com  
