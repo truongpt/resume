@@ -21,7 +21,8 @@
   - 2rd prize Vietnam National Physics Contest for high school - 2004
   - [Bronze medal 5th Asian Physics Olympiad](https://vi.wikipedia.org/wiki/Vi%E1%BB%87t_Nam_t%E1%BA%A1i_Olympic_V%E1%BA%ADt_l%C3%BD_ch%C3%A2u_%C3%81) - 2004
 - **09/2004 - 06/2009**: Hanoi University of Science and Technology
-  - B.S. in Automatic Control/Electrical Engineering department
+  - [Talented Programs](https://en.hust.edu.vn/talented-programs)
+    - B.S. in Automatic Control/Electrical Engineering
   - Graduation thesis: 48V DC - 220V AC, 500W Converter, control by dspic30f4011
   - 3rd prize research student of Electrical Engineering department - 2009
   - Overall GPA: 8.15/10  
