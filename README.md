@@ -29,6 +29,7 @@
 ## Self study
 - 05/2019: [Fundamentals of Digital Image and Video Processing](https://github.com/truongpt/resume/blob/master/cerfiticate/Fundamentals_of_Digital_Image_and_Video.pdf) - Coursera
 - 10/2019: [Machine Learning](https://github.com/truongpt/resume/blob/master/cerfiticate/Machine_learning.pdf) - Coursera
+- 02/2021: [Neural Networks and Deep Learning](https://github.com/truongpt/resume/blob/master/cerfiticate/Neural_Networks_and_Deep_Learning.pdf) - Coursera
 
 ## Technical
 - Programming Language.
