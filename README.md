@@ -27,10 +27,12 @@
   - 3rd prize research student of Electrical Engineering department - 2009
   - Overall GPA: 8.15/10  
 
-## Self study
+## Certificate
 - 05/2019: [Fundamentals of Digital Image and Video Processing](https://github.com/truongpt/resume/blob/master/cerfiticate/Fundamentals_of_Digital_Image_and_Video.pdf) - Coursera
 - 10/2019: [Machine Learning](https://github.com/truongpt/resume/blob/master/cerfiticate/Machine_learning.pdf) - Coursera
+- 01/2021: [AWS Certified Solutions Architect Associate](https://github.com/truongpt/resume/blob/master/cerfiticate/AWS_Certified_Solutions_Architect_Associate_certificate.pdf)
 - 02/2021: [Neural Networks and Deep Learning](https://github.com/truongpt/resume/blob/master/cerfiticate/Neural_Networks_and_Deep_Learning.pdf) - Coursera
+- 03/2021: [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://github.com/truongpt/resume/blob/master/cerfiticate/Improving_Deep_Neural_Networks.pdf) - Coursera
 
 ## Technical
 - Programming Language.
@@ -61,14 +63,21 @@
 - Japanese: nearly N2
 
 ## Employment History
-- **08/2018 - Present**: Embedded Software Engineer at [VTI Co Limited](http://vti.com.vn)
+- **03/2021 - Present**: Compiler Engineer at [EdgeCortix](https://www.edgecortix.com)
+- **08/2018 - 02/2021**: Embedded Software Engineer at [VTI Co Limited](http://vti.com.vn)
 - **07/2013 - 07/2018**: Software Engineer, Bridge System Engineer at [FPT Japan](https://www.fpt-software.jp/fpt-japan)
 - **07/2009 - 07/2013**: Software Developer at [FPT Software Ha Noi](https://www.fpt-software.com/)
 - **11/2007 - 02/2009**: Part time job as Embedded Developer at [Binh Anh Electronics](http://binhanh.vn)
 
 ## Work History
+#### :pushpin: EdgeCortix, - Tokyo, Japan
+- 03/2021 - Present: Compiler Software Engineer (machine learning)
+
 #### :pushpin: VTI Co Limited, - Tokyo, Japan
-- 08/2018 - Present: 3D TOF sensor
+- 10/2020 - 02/2021: Cloud Engineer
+> Analysis of Japanese Medical Standards Requirement Guideline to operate on Amazon Web Service.
+
+- 08/2018 - 09/2020: 3D TOF sensor
 > Develop framework and driver for 3D TOF sensor.  
 > **Responsibility**: 
 > - Implement image filter pipeline. 
